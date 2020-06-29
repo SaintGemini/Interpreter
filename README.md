@@ -1,7 +1,7 @@
 # CSC 413 - Project Two - The Interpreter
 
-## Student Name  : Name here
+## Student Name  : Erik Chacon
 
-## Student ID    : ID here
+## Student ID    : 920768287
 
-## Student Email : Email here
+## Student Email : echacon3@mail.sfsu.edu
