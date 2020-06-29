@@ -47,6 +47,7 @@ public class Program {
         return this.program.size();
     }
 
+    // to add bytecodes to program
     public void add(ByteCode bc){
         if( bc instanceof LabelCode) {
             LabelCode label = (LabelCode) bc;

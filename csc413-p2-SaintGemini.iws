@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5610a3-09ee-4f57-ad4c-2047803827d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/interpreter/bytecode/BopCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interpreter/ByteCodeLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/ByteCodeLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/csc413-p2-SaintGemini.iws" beforeDir="false" afterPath="$PROJECT_DIR$/csc413-p2-SaintGemini.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.x.cod" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.x.cod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interpreter/virtualmachine/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/virtualmachine/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interpreter/virtualmachine/RunTimeStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/virtualmachine/RunTimeStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interpreter/virtualmachine/VirtualMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/interpreter/virtualmachine/VirtualMachine.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,20 +23,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dopR2Y6Y2X7FEihQ6h7rURESie" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SFSU/Spring2020SFSU/CSC413/Week2/assignment-1-expression-evaluator-spring-2020-SaintGemini-master/assignment1-ErikChacon" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Interpreter">
     <configuration name="Unnamed" type="Applet" nameIsGenerated="true">
@@ -51,7 +44,7 @@
     <configuration name="Interpreter" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="interpreter.Interpreter" />
       <module name="csc413-p2-SaintGemini" />
-      <option name="PROGRAM_PARAMETERS" value="factorial.x.cod" />
+      <option name="PROGRAM_PARAMETERS" value="fib.x.cod" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,7 +62,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.Unnamed" />
       <item itemvalue="Application.Interpreter" />
       <item itemvalue="Application.rts" />
     </list>
@@ -89,21 +81,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593101288124</updated>
+      <workItem from="1593438677565" duration="6353000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593449948361">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593449948361" />
+    <state x="2660" y="246" key="FileChooserDialogImpl" timestamp="1593448223145">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="246" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593448223145" />
+    <state width="1877" height="119" key="GridCell.Tab.0.bottom" timestamp="1593449423432">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593449423432" />
+    <state width="1877" height="119" key="GridCell.Tab.0.center" timestamp="1593449423432">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="119" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593449423432" />
+    <state width="1877" height="119" key="GridCell.Tab.0.left" timestamp="1593449423432">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="119" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593449423432" />
+    <state width="1877" height="119" key="GridCell.Tab.0.right" timestamp="1593449423432">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="119" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593449423432" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>

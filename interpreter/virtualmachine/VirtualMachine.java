@@ -26,11 +26,15 @@ public class VirtualMachine {
         dumpState = true;
 
         while(isRunning){
+            // Get Byte Code
             ByteCode code = program.getCode(programCounter);
+            // Execute Byte Code
             code.execute(this);
-
+            // Dump state = ON and if not a DumpCode
             if(dumpState && (!(code instanceof DumpCode))){
+                // Print code
                 System.out.println(code.toString());
+                // Dump
                 runTimeStack.dump();
             }
             programCounter++;
@@ -88,6 +92,7 @@ public class VirtualMachine {
     public int popReturnCode(){
         return (Integer)returnAddress.pop();
     }
+    // For PopCode execute function
     public int popInsurance() {
         return runTimeStack.popInsurance();
     }
